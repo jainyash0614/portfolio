@@ -23,7 +23,7 @@ export const TechStack = () => {
     },
     {
       title: "Material-UI",
-      src: "/Material-UI.svg",
+      src: "/material-ui.svg",
 
       className: "h-10 w-24",
     },
