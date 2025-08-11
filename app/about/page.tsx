@@ -50,14 +50,14 @@ const AboutPage = () => {
             <div>
                 <p className="text-slate-500 px-4 text-left leading-relaxed">
                 
-                Yo! I'm currently navigating the wild world of full-stack development. When I'm not knee-deep in code or wrestling with complex algorithms, I'm busy dreaming up the next big thing and making it a reality.
+                Yo! I&apos;m currently navigating the wild world of full-stack development. When I&apos;m not knee-deep in code or wrestling with complex algorithms, I&apos;m busy dreaming up the next big thing and making it a reality.
                 <br />
                 <br />
-                A little about me — I’m a curious problem-solver who loves turning ideas into working products, blending creativity with logic. I thrive on challenges, enjoy experimenting with new tech, and believe every bug is just an adventure in disguise.
+                A little about me — I&apos;m a curious problem-solver who loves turning ideas into working products, blending creativity with logic. I thrive on challenges, enjoy experimenting with new tech, and believe every bug is just an adventure in disguise.
                 <br />
                 <br />
                 
-                My passion for tech keeps me constantly exploring new ideas, chasing innovation, and learning from every success (and every hilarious coding fail). Whether I'm crafting something epic or geeking out over the latest breakthrough, I'm here for it.
+                My passion for tech keeps me constantly exploring new ideas, chasing innovation, and learning from every success (and every hilarious coding fail). Whether I&apos;m crafting something epic or geeking out over the latest breakthrough, I&apos;m here for it.
 
               <br />
               <br />
