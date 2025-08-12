@@ -53,7 +53,7 @@ export default function Home() {
         <motion.div variants={itemVariants}>
           <div>
             <p className='text-slate-500'>
-              I&apos;m a full-stack developer that loves building products and web apps that 
+              I&apos;m a full-stack developer who loves building products and web apps that 
               <br className='hidden xl:block' /> can make a difference!
             </p>
           </div>
